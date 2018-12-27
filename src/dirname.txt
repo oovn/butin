@@ -1,0 +1,9 @@
+./compat/
+./conversations/
+./free/
+./freeCompat/
+./main/
+./playstore/
+./playstoreCompat/
+./quicksy/
+./system/

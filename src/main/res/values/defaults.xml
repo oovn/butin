@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="portrait_only">true</bool>
+    <bool name="enter_is_send">false</bool>
+    <bool name="notifications_from_strangers">false</bool>
+    <bool name="headsup_notifications">false</bool>
+    <bool name="dnd_on_silent_mode">false</bool>
+    <bool name="treat_vibrate_as_silent">false</bool>
+    <bool name="confirm_messages">true</bool>
+    <bool name="chat_states">true</bool>
+    <bool name="last_activity">false</bool>
+    <bool name="vibrate_on_notification">true</bool>
+    <bool name="led">true</bool>
+    <bool name="enable_quiet_hours">false</bool>
+    <bool name="use_green_background">true</bool>
+    <bool name="send_button_status">false</bool>
+    <bool name="show_dynamic_tags">false</bool>
+    <bool name="btbv">true</bool>
+    <bool name="dont_trust_system_cas">false</bool>
+    <bool name="allow_message_correction">true</bool>
+    <bool name="use_tor">false</bool>
+    <bool name="show_connection_options">false</bool>
+    <bool name="display_enter_key">false</bool>
+    <bool name="manually_change_presence">false</bool>
+    <bool name="away_when_screen_off">false</bool>
+    <bool name="autojoin">true</bool>
+    <bool name="indicate_received">false</bool>
+    <bool name="enable_foreground_service">false</bool>
+    <bool name="never_send">false</bool>
+    <bool name="validate_hostname">false</bool>
+    <bool name="show_qr_code_scan">true</bool>
+    <bool name="scroll_to_bottom">true</bool>
+    <bool name="use_share_location_plugin">false</bool>
+    <bool name="start_searching">false</bool>
+    <integer name="grace_period">144</integer>
+    <integer name="auto_accept_filesize">524288</integer>
+    <integer name="automatic_message_deletion">0</integer>
+    <plurals name="x_messages">
+        <item quantity="one">%d message</item>
+        <item quantity="other">%d messages</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one">%d week</item>
+        <item quantity="other">%d weeks</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d month</item>
+        <item quantity="other">%d months</item>
+    </plurals>
+    <plurals name="toast_delete_certificates">
+        <item quantity="one">%d certificate deleted</item>
+        <item quantity="other">%d certificates deleted</item>
+    </plurals>
+    <string name="phone_book">Danh bạ</string>
+    <string name="title_activity_about">Giới thiệu</string>
+    <string name="welcome_header">Xin chào</string>
+    <string name="welcome_header_quicksy">Xin chào</string>
+</resources>
